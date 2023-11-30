@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/121d6e6d-5acc-450d-9272-19b1711f68c6/AppServices/subscriptions/121d6e6d-5acc-450d-9272-19b1711f68c6/resourceGroups/AVISUSHOTELRESOURCE/providers/Microsoft.Web/sites/vijayvilas",
+    "appService.deploySubpath": "dist\\skote"
+}
